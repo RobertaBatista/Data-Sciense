@@ -11,7 +11,7 @@ Meu Portfólio de Projetos Data-Sciense
 
 As a experienced Processamento de Dados analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning, I developed a critical thinking and problem-solving skills.
 
-My credentials include Technology of Informação Bacharelado em Ciencias de Dados- Universidade Virtual do Estado de São Paulo - Univesp., an institution of higher education and advanced research rated as one of the top and most prestigious eschools in Brazil,(UNIVESP).
+My credentials include Technology of Bacharelado em Tecnologia da Informação- Universidade Virtual do Estado de São Paulo - Univesp., an institution of higher education and advanced research rated as one of the top and most prestigious eschools in Brazil,(UNIVESP).
 
 **Background in:** Python, Machine Learning, SQL, VB.NET, Gerenciamento de Projetos com ênfase em PMI and Mathematical Optimisation.
 
